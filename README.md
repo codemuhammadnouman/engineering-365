@@ -1,2 +1,2 @@
 # engineering-365
-365-day engineering journey: foundations, backend, and AI systems
+365-day engineering journey: foundations, backend, and AI system
